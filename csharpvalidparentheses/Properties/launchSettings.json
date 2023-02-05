@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "csharpvalidparentheses": {
+      "commandName": "Project",
+      "commandLineArgs": "{}"
+    }
+  }
+}
