@@ -1,0 +1,1 @@
+Get-ChildItem -Directory | ForEach-Object {if (!(Test-Path (Join-Path $_.FullName '.gitignore'))) {Set-Location $_.FullName; dotnet new gitignore}}

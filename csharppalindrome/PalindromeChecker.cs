@@ -1,8 +1,12 @@
 namespace csharppalindrome
 {
     // [DebuggerNonUserCode]
-    public class PalindromeChecker
+
     {
+        private static List<string> numbers = new() {
+            "2",
+            "4",
+        };
         public static bool IsPalindrome(string word)
         {
             if (string.IsNullOrEmpty(word))
