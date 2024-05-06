@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "csharplongestcommonprefix": {
+      "commandName": "Project",
+      "commandLineArgs": "asdf asdfg asd"
+    }
+  }
+}
