@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharpspan", "csharpspan.csproj", "{488EBF1B-550D-4596-8C6E-9FF2DA280BA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharppinvoke", "..\csharppinvoke\csharppinvoke.csproj", "{D673A35E-80A1-4A57-B8F6-127BA463B013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488EBF1B-550D-4596-8C6E-9FF2DA280BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488EBF1B-550D-4596-8C6E-9FF2DA280BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488EBF1B-550D-4596-8C6E-9FF2DA280BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488EBF1B-550D-4596-8C6E-9FF2DA280BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D673A35E-80A1-4A57-B8F6-127BA463B013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D673A35E-80A1-4A57-B8F6-127BA463B013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D673A35E-80A1-4A57-B8F6-127BA463B013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D673A35E-80A1-4A57-B8F6-127BA463B013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9383FA67-62D4-4211-8995-0113EDF5996A}
+	EndGlobalSection
+EndGlobal
